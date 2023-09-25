@@ -4,4 +4,4 @@ import pulumi
 import pulumi_random as random
 
 
-string = random.RandomString("string", length=10)
+string = random.RandomString("string", length=11)
